@@ -4,8 +4,8 @@ WikiSözlük, Konya’daki üniversite öğrencilerinin akademik destek, sosyal 
 
 Bu proje, Konya Gençlik Meclisi – DIVIZYON tarafından düzenlenen Jam Week (Açık Bilgi Platformu Jam) kapsamında geliştirilmiştir.
 
-##🌟 Özellikler##
-###📚 Akademik Paylaşım Alanı###
+## 🌟 Özellikler ##
+### 📚 Akademik Paylaşım Alanı ###
 
 Ders notları
 
@@ -15,7 +15,7 @@ Ders notları
 
 Öğrenciden öğrenciye akademik destek
 
-###🎉 Sosyal Yaşam & Etkinlikler###
+### 🎉 Sosyal Yaşam & Etkinlikler ###
 
 Konya’daki etkinliklerin duyurulması
 
@@ -23,7 +23,7 @@ Topluluk buluşmaları
 
 Kulüp aktiviteleri
 
-###📍 Şehir Keşfi###
+### 📍 Şehir Keşfi ###
 
 Gezilecek yerler
 
@@ -31,13 +31,13 @@ Sevilen kafeler
 
 Öğrenciler tarafından önerilen mekanlar
 
-###💼 Staj & Burs Duyuruları###
+### 💼 Staj & Burs Duyuruları ###
 
 Öğrenciler için güncel staj fırsatları
 
 Burs ve proje destek duyuruları
 
-🪙 Rozet Sistemi & Coin Ekonomisi
+### 🪙 Rozet Sistemi & Coin Ekonomisi ###
 
 Kullanıcıların yaptığı her eylem coin kazandırır:
 
@@ -58,7 +58,7 @@ Coin miktarına göre kullanıcı rozet kazanır ve seviye atlar:
 🔹 Kaşif
 🔹 Konya Bilgesi
 
-💳 Coin → Genç Kültür Kart Puanı Dönüşümü
+### 💳 Coin → Genç Kültür Kart Puanı Dönüşümü ###
 
 Platformda kazanılan coinler, Konya Genç Kültür Kart puanına dönüştürülebilir.
 
@@ -74,7 +74,7 @@ Platformda kazanılan coinler, Konya Genç Kültür Kart puanına dönüştürü
 
 gibi Genç Kültür Kart’ın anlaşmalı olduğu yerlerde kullanabilir.
 
-🔐 Admin Paneli
+## 🔐 Admin Paneli ##
 
 Yönetici ekranı aşağıdaki yetkilere sahiptir:
 
@@ -86,7 +86,7 @@ Coin ödül oranlarını değiştirme
 
 Kullanıcı eylemlerini analiz etme
 
-🔑 Kullanıcı Giriş Yöntemleri
+## 🔑 Kullanıcı Giriş Yöntemleri ##
 
 Kullanıcılar uygulamaya iki farklı şekilde giriş yapabilir:
 
@@ -116,7 +116,7 @@ WikiSozluk/
 │── index.html
 │── README.md
 
-🚀 Kurulum (Opsiyonel)
+## 🚀 Kurulum ##
 
 Repo’yu klonlayın:
 
@@ -139,7 +139,7 @@ Değişiklikleri yapın
 
 Pull request gönderin
 
-🎉 Teşekkürler
+## 🎉 Teşekkürler ##
 
 Bu projenin ortaya çıkmasında destek olan:
 
