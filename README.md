@@ -1,4 +1,4 @@
-#📘 WikiSözlük – Konya Üniversite Öğrencileri için Sosyal & Akademik Platform#
+# 📘 WikiSözlük – Konya Üniversite Öğrencileri için Sosyal & Akademik Platform #
 
 WikiSözlük, Konya’daki üniversite öğrencilerinin akademik destek, sosyal yaşam, şehir keşfi, staj & burs duyuruları gibi ihtiyaçlarını tek bir platformda buluşturan öğrenci odaklı bir uygulamadır.
 
