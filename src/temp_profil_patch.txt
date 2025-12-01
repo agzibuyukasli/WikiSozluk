@@ -1,0 +1,26 @@
+                        <motion.button
+                          whileHover={{ scale: 1.05 }}
+                          whileTap={{ scale: 0.95 }}
+                          onClick={() => {
+                            const roleElement = document.getElementById('role-system');
+                            if (roleElement) {
+                              roleElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                              toast.info("Rol sistemi detayları", {
+                                description: "Aşağıda tüm roller ve yeteneklerini görebilirsiniz",
+                              });
+                            }
+                          }}
+                          className="flex items-center gap-2 px-4 py-2.5 bg-gradient-to-br from-[#395579] to-[#4A6A8A] rounded-xl shadow-lg hover:shadow-xl transition-all"
+                        >
+                          <Trophy className="h-5 w-5 text-white" />
+                          <span className="text-white">{currentRole.name}</span>
+                        </motion.button>
+                        <motion.button
+                          whileHover={{ scale: 1.05 }}
+                          whileTap={{ scale: 0.95 }}
+                          onClick={() => setShowCoinInfoModal(true)}
+                          className="flex items-center gap-2 px-4 py-2.5 bg-white border-2 border-[#395579] rounded-xl shadow-md hover:shadow-xl transition-all"
+                        >
+                          <Coins className="h-5 w-5 text-[#395579]" />
+                          <span className="text-neutral-900">{userCoins.toLocaleString()}</span>
+                        </motion.button>
