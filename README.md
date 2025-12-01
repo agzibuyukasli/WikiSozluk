@@ -1,11 +1,11 @@
-📘 WikiSözlük – Konya Üniversite Öğrencileri için Sosyal & Akademik Platform
+#📘 WikiSözlük – Konya Üniversite Öğrencileri için Sosyal & Akademik Platform#
 
 WikiSözlük, Konya’daki üniversite öğrencilerinin akademik destek, sosyal yaşam, şehir keşfi, staj & burs duyuruları gibi ihtiyaçlarını tek bir platformda buluşturan öğrenci odaklı bir uygulamadır.
 
 Bu proje, Konya Gençlik Meclisi – DIVIZYON tarafından düzenlenen Jam Week (Açık Bilgi Platformu Jam) kapsamında geliştirilmiştir.
 
-🌟 Özellikler
-📚 Akademik Paylaşım Alanı
+##🌟 Özellikler##
+###📚 Akademik Paylaşım Alanı###
 
 Ders notları
 
@@ -15,7 +15,7 @@ Ders notları
 
 Öğrenciden öğrenciye akademik destek
 
-🎉 Sosyal Yaşam & Etkinlikler
+###🎉 Sosyal Yaşam & Etkinlikler###
 
 Konya’daki etkinliklerin duyurulması
 
@@ -23,7 +23,7 @@ Topluluk buluşmaları
 
 Kulüp aktiviteleri
 
-📍 Şehir Keşfi
+###📍 Şehir Keşfi###
 
 Gezilecek yerler
 
@@ -31,7 +31,7 @@ Sevilen kafeler
 
 Öğrenciler tarafından önerilen mekanlar
 
-💼 Staj & Burs Duyuruları
+###💼 Staj & Burs Duyuruları###
 
 Öğrenciler için güncel staj fırsatları
 
